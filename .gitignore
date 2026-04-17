@@ -1,0 +1,20 @@
+# Compiled binaries
+a.out
+monitor
+passive_monitor
+
+# Runtime output files
+*.json
+*.csv
+report.html
+report_test.html
+
+# Build artifacts
+*.o
+*.d
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
